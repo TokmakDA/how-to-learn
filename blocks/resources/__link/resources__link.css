@@ -6,10 +6,3 @@
   text-decoration: none;
   display: block;
 }
-
-
-.resources__link:hover {
-  opacity: .35;
-  transition: opacity .5s ease;
-}
-
