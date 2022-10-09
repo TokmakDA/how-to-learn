@@ -1,3 +1,4 @@
 .video_iframe {
-  z-index: 2;
+  border: 0;
+  z-index: 1;
 }
