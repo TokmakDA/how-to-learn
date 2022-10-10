@@ -2,6 +2,9 @@
   min-height: 890px;
   display: flex;
   position: relative;
+  background: url(../../images/feynman.png) no-repeat;
+  background-size: 867px 637px;
+  background-position: left bottom;
   background-color: #f2f2f2;
   text-align: center;
   align-items: center;
